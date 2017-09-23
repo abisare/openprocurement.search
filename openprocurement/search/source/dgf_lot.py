@@ -30,7 +30,7 @@ class DgfLotSource(BaseSource):
         'lot_resethour': 23,
         'lot_user_agent': '',
         'lot_file_cache': '',
-        'lot_cache_allow': 'complete,cancelled,unsuccessful',
+        'lot_cache_allow': '',
         'lot_cache_minage': 15,
         'timeout': 30,
     }

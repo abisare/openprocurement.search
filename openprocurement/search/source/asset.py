@@ -30,7 +30,7 @@ class AssetSource(BaseSource):
         'asset_resethour': 23,
         'asset_user_agent': '',
         'asset_file_cache': '',
-        'asset_cache_allow': 'complete,cancelled,unsuccessful',
+        'asset_cache_allow': '',
         'asset_cache_minage': 15,
         'timeout': 30,
     }
